@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\bin\Debug\net6.0\Exercice_5.exe
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\bin\Debug\net6.0\Exercice_5.deps.json
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\bin\Debug\net6.0\Exercice_5.runtimeconfig.json
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\bin\Debug\net6.0\Exercice_5.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\bin\Debug\net6.0\ref\Exercice_5.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\bin\Debug\net6.0\Exercice_5.pdb
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.AssemblyInfo.cs
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\ref\Exercice_5.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.pdb
+C:\Users\Stagiaire\Git Depot\exercices-td\Algo\Algo C#\Algo-Serie-1\Exercice_5\obj\Debug\net6.0\Exercice_5.genruntimeconfig.cache

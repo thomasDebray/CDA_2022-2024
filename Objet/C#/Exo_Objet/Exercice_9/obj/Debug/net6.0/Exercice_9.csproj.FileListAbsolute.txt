@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\bin\Debug\net6.0\Exercice_9.exe
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\bin\Debug\net6.0\Exercice_9.deps.json
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\bin\Debug\net6.0\Exercice_9.runtimeconfig.json
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\bin\Debug\net6.0\Exercice_9.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\bin\Debug\net6.0\ref\Exercice_9.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\bin\Debug\net6.0\Exercice_9.pdb
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.AssemblyInfo.cs
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\ref\Exercice_9.dll
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.pdb
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.genruntimeconfig.cache
+C:\Users\Stagiaire\Git Depot\exercices-td\Objet\Exo_Concept_Objet\Exo_Concepts_objet\Exercice_9\obj\Debug\net6.0\Exercice_9.csproj.AssemblyReference.cache

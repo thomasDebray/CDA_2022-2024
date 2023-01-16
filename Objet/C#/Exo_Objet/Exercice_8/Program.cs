@@ -1,0 +1,12 @@
+﻿using Exercice_8;
+Lepidoptere lepidoptere = new Lepidoptere();
+Oeuf oeuf = new Oeuf();
+string valeurDeplacement;
+string valeurDeplacement2;
+valeurDeplacement = lepidoptere.SeDeplacer();
+Console.WriteLine(valeurDeplacement);
+lepidoptere.SeMetamorphoser();
+//Chenille ch = oeuf.SeMetamorphoser();
+valeurDeplacement2 = lepidoptere.SeDeplacer();
+Console.WriteLine(valeurDeplacement2);
+Console.WriteLine();

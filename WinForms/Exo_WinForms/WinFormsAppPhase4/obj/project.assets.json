@@ -1,0 +1,393 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ClassLibrary4Verification/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary4Verification.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary4Verification.dll": {}
+        }
+      },
+      "ClassLibrary5Verification/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary5Verification.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary5Verification.dll": {}
+        }
+      },
+      "ClassLibrary7Verification/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary7Verification.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary7Verification.dll": {}
+        }
+      },
+      "ClassLibrary8Validation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary8Validation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary8Validation.dll": {}
+        }
+      },
+      "ClassLibraryControlesDeSaisie/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryControlesDeSaisie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryControlesDeSaisie.dll": {}
+        }
+      },
+      "ClassLibraryEmprunt/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryEmprunt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryEmprunt.dll": {}
+        }
+      },
+      "ClassLibraryListeDeStringSelectionne/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryListeDeStringSelectionne.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryListeDeStringSelectionne.dll": {}
+        }
+      },
+      "ClassLibraryTransaction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryTransaction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryTransaction.dll": {}
+        }
+      },
+      "ClassLibrary_additionneur/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary_additionneur.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary_additionneur.dll": {}
+        }
+      },
+      "WinFormsAppCheckBoxEtRadioButton/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WinFormsAppCheckBoxEtRadioButton.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppCheckBoxEtRadioButton.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsAppComposantsDeDefilement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WinFormsAppComposantsDeDefilement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppComposantsDeDefilement.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsAppControlesDeSaisie/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibraryControlesDeSaisie": "1.0.0",
+          "ClassLibraryTransaction": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsAppControlesDeSaisie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppControlesDeSaisie.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsAppListBox/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary4Verification": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsAppListBox.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppListBox.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsAppListBoxEtComboBox/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary5Verification": "1.0.0",
+          "ClassLibraryListeDeStringSelectionne": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsAppListBoxEtComboBox.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppListBoxEtComboBox.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsAppSynthese/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary7Verification": "1.0.0",
+          "ClassLibraryEmprunt": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsAppSynthese.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsAppSynthese.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsApp_additionneur/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary_additionneur": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsApp_additionneur.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsApp_additionneur.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary4Verification/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary4Verification/ClassLibrary4Verification.csproj",
+      "msbuildProject": "../ClassLibrary4Verification/ClassLibrary4Verification.csproj"
+    },
+    "ClassLibrary5Verification/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary5Verification/ClassLibrary5Verification.csproj",
+      "msbuildProject": "../ClassLibrary5Verification/ClassLibrary5Verification.csproj"
+    },
+    "ClassLibrary7Verification/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary7Verification/ClassLibrary7Verification.csproj",
+      "msbuildProject": "../ClassLibrary7Verification/ClassLibrary7Verification.csproj"
+    },
+    "ClassLibrary8Validation/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary8Validation/ClassLibrary8Validation.csproj",
+      "msbuildProject": "../ClassLibrary8Validation/ClassLibrary8Validation.csproj"
+    },
+    "ClassLibraryControlesDeSaisie/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryControlesDeSaisie/ClassLibraryControlesDeSaisie.csproj",
+      "msbuildProject": "../ClassLibraryControlesDeSaisie/ClassLibraryControlesDeSaisie.csproj"
+    },
+    "ClassLibraryEmprunt/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryEmprunt/ClassLibraryEmprunt.csproj",
+      "msbuildProject": "../ClassLibraryEmprunt/ClassLibraryEmprunt.csproj"
+    },
+    "ClassLibraryListeDeStringSelectionne/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryListeDeStringSelectionne/ClassLibraryListeDeStringSelectionne.csproj",
+      "msbuildProject": "../ClassLibraryListeDeStringSelectionne/ClassLibraryListeDeStringSelectionne.csproj"
+    },
+    "ClassLibraryTransaction/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryTransaction/ClassLibraryTransaction.csproj",
+      "msbuildProject": "../ClassLibraryTransaction/ClassLibraryTransaction.csproj"
+    },
+    "ClassLibrary_additionneur/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary_additionneur/ClassLibrary_additionneur.csproj",
+      "msbuildProject": "../ClassLibrary_additionneur/ClassLibrary_additionneur.csproj"
+    },
+    "WinFormsAppCheckBoxEtRadioButton/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsAppCheckBoxEtRadioButton/WinFormsAppCheckBoxEtRadioButton.csproj",
+      "msbuildProject": "../WinFormsAppCheckBoxEtRadioButton/WinFormsAppCheckBoxEtRadioButton.csproj"
+    },
+    "WinFormsAppComposantsDeDefilement/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsAppComposantsDeDefilement/WinFormsAppComposantsDeDefilement.csproj",
+      "msbuildProject": "../WinFormsAppComposantsDeDefilement/WinFormsAppComposantsDeDefilement.csproj"
+    },
+    "WinFormsAppControlesDeSaisie/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsAppControlesDeSaisie/WinFormsAppControlesDeSaisie.csproj",
+      "msbuildProject": "../WinFormsAppControlesDeSaisie/WinFormsAppControlesDeSaisie.csproj"
+    },
+    "WinFormsAppListBox/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsAppListBox/WinFormsAppListBox.csproj",
+      "msbuildProject": "../WinFormsAppListBox/WinFormsAppListBox.csproj"
+    },
+    "WinFormsAppListBoxEtComboBox/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsAppListBoxEtComboBox/WinFormsAppListBoxEtComboBox.csproj",
+      "msbuildProject": "../WinFormsAppListBoxEtComboBox/WinFormsAppListBoxEtComboBox.csproj"
+    },
+    "WinFormsAppSynthese/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsAppSynthese/WinFormsAppSynthese.csproj",
+      "msbuildProject": "../WinFormsAppSynthese/WinFormsAppSynthese.csproj"
+    },
+    "WinFormsApp_additionneur/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsApp_additionneur/WinFormsApp_additionneur.csproj",
+      "msbuildProject": "../WinFormsApp_additionneur/WinFormsApp_additionneur.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ClassLibrary8Validation >= 1.0.0",
+      "WinFormsAppCheckBoxEtRadioButton >= 1.0.0",
+      "WinFormsAppComposantsDeDefilement >= 1.0.0",
+      "WinFormsAppControlesDeSaisie >= 1.0.0",
+      "WinFormsAppListBox >= 1.0.0",
+      "WinFormsAppListBoxEtComboBox >= 1.0.0",
+      "WinFormsAppSynthese >= 1.0.0",
+      "WinFormsApp_additionneur >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tdebray\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\WinFormsAppPhase4.csproj",
+      "projectName": "WinFormsAppPhase4",
+      "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\WinFormsAppPhase4.csproj",
+      "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

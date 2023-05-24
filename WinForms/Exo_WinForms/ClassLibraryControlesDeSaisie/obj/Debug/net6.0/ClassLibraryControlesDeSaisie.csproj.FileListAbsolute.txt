@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\bin\Debug\net6.0\ClassLibraryControlesDeSaisie.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\bin\Debug\net6.0\ClassLibraryControlesDeSaisie.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\bin\Debug\net6.0\ClassLibraryControlesDeSaisie.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\refint\ClassLibraryControlesDeSaisie.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ClassLibraryControlesDeSaisie.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryControlesDeSaisie\obj\Debug\net6.0\ref\ClassLibraryControlesDeSaisie.dll

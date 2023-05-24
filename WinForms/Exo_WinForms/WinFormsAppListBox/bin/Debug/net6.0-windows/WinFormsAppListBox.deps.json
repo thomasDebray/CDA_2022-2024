@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsAppListBox/1.0.0": {
+        "dependencies": {
+          "ClassLibrary4Verification": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppListBox.dll": {}
+        }
+      },
+      "ClassLibrary4Verification/1.0.0": {
+        "runtime": {
+          "ClassLibrary4Verification.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary4Verification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

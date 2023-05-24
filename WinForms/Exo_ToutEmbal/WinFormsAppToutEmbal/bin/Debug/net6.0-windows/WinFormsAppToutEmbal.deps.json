@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsAppToutEmbal/1.0.0": {
+        "dependencies": {
+          "ClassLibraryOutils": "1.0.0",
+          "ClassLibraryToutEmbal": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppToutEmbal.dll": {}
+        }
+      },
+      "ClassLibraryOutils/1.0.0": {
+        "runtime": {
+          "ClassLibraryOutils.dll": {}
+        }
+      },
+      "ClassLibraryToutEmbal/1.0.0": {
+        "dependencies": {
+          "ClassLibraryOutils": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryToutEmbal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppToutEmbal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryOutils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryToutEmbal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

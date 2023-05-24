@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary8Validation\ClassLibrary8Validation.csproj" />
+    <ProjectReference Include="..\WinFormsAppCheckBoxEtRadioButton\WinFormsAppCheckBoxEtRadioButton.csproj" />
+    <ProjectReference Include="..\WinFormsAppComposantsDeDefilement\WinFormsAppComposantsDeDefilement.csproj" />
+    <ProjectReference Include="..\WinFormsAppControlesDeSaisie\WinFormsAppControlesDeSaisie.csproj" />
+    <ProjectReference Include="..\WinFormsAppListBoxEtComboBox\WinFormsAppListBoxEtComboBox.csproj" />
+    <ProjectReference Include="..\WinFormsAppListBox\WinFormsAppListBox.csproj" />
+    <ProjectReference Include="..\WinFormsAppSynthese\WinFormsAppSynthese.csproj" />
+    <ProjectReference Include="..\WinFormsApp_additionneur\WinFormsApp_additionneur.csproj" />
+  </ItemGroup>
+
+</Project>

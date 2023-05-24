@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\bin\Debug\net6.0\ClassLibrary8Validation.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\bin\Debug\net6.0\ClassLibrary8Validation.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\bin\Debug\net6.0\ClassLibrary8Validation.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\refint\ClassLibrary8Validation.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ClassLibrary8Validation.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary8Validation\obj\Debug\net6.0\ref\ClassLibrary8Validation.dll

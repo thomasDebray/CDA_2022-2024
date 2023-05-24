@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsAppControlesDeSaisie/1.0.0": {
+        "dependencies": {
+          "ClassLibraryControlesDeSaisie": "1.0.0",
+          "ClassLibraryTransaction": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppControlesDeSaisie.dll": {}
+        }
+      },
+      "ClassLibraryControlesDeSaisie/1.0.0": {
+        "runtime": {
+          "ClassLibraryControlesDeSaisie.dll": {}
+        }
+      },
+      "ClassLibraryTransaction/1.0.0": {
+        "runtime": {
+          "ClassLibraryTransaction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppControlesDeSaisie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryControlesDeSaisie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryTransaction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

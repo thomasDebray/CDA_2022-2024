@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsAppListBoxEtComboBox/1.0.0": {
+        "dependencies": {
+          "ClassLibrary5Verification": "1.0.0",
+          "ClassLibraryListeDeStringSelectionne": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppListBoxEtComboBox.dll": {}
+        }
+      },
+      "ClassLibrary5Verification/1.0.0": {
+        "runtime": {
+          "ClassLibrary5Verification.dll": {}
+        }
+      },
+      "ClassLibraryListeDeStringSelectionne/1.0.0": {
+        "runtime": {
+          "ClassLibraryListeDeStringSelectionne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppListBoxEtComboBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary5Verification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryListeDeStringSelectionne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

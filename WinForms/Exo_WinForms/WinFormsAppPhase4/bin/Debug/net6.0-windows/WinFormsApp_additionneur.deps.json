@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp_additionneur/1.0.0": {
+        "dependencies": {
+          "ClassLibrary_additionneur": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp_additionneur.dll": {}
+        }
+      },
+      "ClassLibrary_additionneur/1.0.0": {
+        "runtime": {
+          "ClassLibrary_additionneur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp_additionneur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary_additionneur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\bin\Debug\net6.0\ClassLibrary_additionneur.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\bin\Debug\net6.0\ClassLibrary_additionneur.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\bin\Debug\net6.0\ClassLibrary_additionneur.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\refint\ClassLibrary_additionneur.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ClassLibrary_additionneur.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary_additionneur\obj\Debug\net6.0\ref\ClassLibrary_additionneur.dll

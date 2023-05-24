@@ -1,0 +1,128 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.exe
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.runtimeconfig.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.FormCity.resources
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.GenerateResource.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.CopyComplete
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\refint\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.genruntimeconfig.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\ref\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.FormUnCity.resources
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\WinFormsAppCities\bin\Debug\net6.0-windows\ClassLibraryCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.exe
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.runtimeconfig.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\WinFormsAppCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\bin\Debug\net6.0-windows\ClassLibraryCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.FormCity.resources
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.FormUnCity.resources
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.GenerateResource.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.csproj.CopyComplete
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\refint\WinFormsAppCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\WinFormsAppCities.genruntimeconfig.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\WinFormsAppCities\obj\Debug\net6.0-windows\ref\WinFormsAppCities.dll

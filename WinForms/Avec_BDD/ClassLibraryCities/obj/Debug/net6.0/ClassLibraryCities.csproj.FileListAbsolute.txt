@@ -1,0 +1,24 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\bin\Debug\net6.0\ClassLibraryCities.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\bin\Debug\net6.0\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\bin\Debug\net6.0\ClassLibraryCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\refint\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\ClassLibraryCities\obj\Debug\net6.0\ref\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\bin\Debug\net6.0\ClassLibraryCities.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\bin\Debug\net6.0\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\bin\Debug\net6.0\ClassLibraryCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\refint\ClassLibraryCities.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ClassLibraryCities.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Avec BDD\ClassLibraryCities\obj\Debug\net6.0\ref\ClassLibraryCities.dll

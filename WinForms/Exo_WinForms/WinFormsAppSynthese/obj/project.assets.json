@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ClassLibrary7Verification/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary7Verification.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary7Verification.dll": {}
+        }
+      },
+      "ClassLibraryEmprunt/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryEmprunt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryEmprunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary7Verification/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary7Verification/ClassLibrary7Verification.csproj",
+      "msbuildProject": "../ClassLibrary7Verification/ClassLibrary7Verification.csproj"
+    },
+    "ClassLibraryEmprunt/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryEmprunt/ClassLibraryEmprunt.csproj",
+      "msbuildProject": "../ClassLibraryEmprunt/ClassLibraryEmprunt.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ClassLibrary7Verification >= 1.0.0",
+      "ClassLibraryEmprunt >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tdebray\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj",
+      "projectName": "WinFormsAppSynthese",
+      "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj",
+      "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj"
+            },
+            "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj": {
+              "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

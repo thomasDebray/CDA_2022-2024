@@ -1,0 +1,1106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\WinFormsAppPhase4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary4Verification\\ClassLibrary4Verification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary4Verification\\ClassLibrary4Verification.csproj",
+        "projectName": "ClassLibrary4Verification",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary4Verification\\ClassLibrary4Verification.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary4Verification\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary5Verification\\ClassLibrary5Verification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary5Verification\\ClassLibrary5Verification.csproj",
+        "projectName": "ClassLibrary5Verification",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary5Verification\\ClassLibrary5Verification.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary5Verification\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj",
+        "projectName": "ClassLibrary7Verification",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj",
+        "projectName": "ClassLibrary8Validation",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryControlesDeSaisie\\ClassLibraryControlesDeSaisie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryControlesDeSaisie\\ClassLibraryControlesDeSaisie.csproj",
+        "projectName": "ClassLibraryControlesDeSaisie",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryControlesDeSaisie\\ClassLibraryControlesDeSaisie.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryControlesDeSaisie\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj",
+        "projectName": "ClassLibraryEmprunt",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryListeDeStringSelectionne\\ClassLibraryListeDeStringSelectionne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryListeDeStringSelectionne\\ClassLibraryListeDeStringSelectionne.csproj",
+        "projectName": "ClassLibraryListeDeStringSelectionne",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryListeDeStringSelectionne\\ClassLibraryListeDeStringSelectionne.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryListeDeStringSelectionne\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryTransaction\\ClassLibraryTransaction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryTransaction\\ClassLibraryTransaction.csproj",
+        "projectName": "ClassLibraryTransaction",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryTransaction\\ClassLibraryTransaction.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryTransaction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary_additionneur\\ClassLibrary_additionneur.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary_additionneur\\ClassLibrary_additionneur.csproj",
+        "projectName": "ClassLibrary_additionneur",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary_additionneur\\ClassLibrary_additionneur.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary_additionneur\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj",
+        "projectName": "WinFormsAppCheckBoxEtRadioButton",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj",
+        "projectName": "WinFormsAppComposantsDeDefilement",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj",
+        "projectName": "WinFormsAppControlesDeSaisie",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryControlesDeSaisie\\ClassLibraryControlesDeSaisie.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryControlesDeSaisie\\ClassLibraryControlesDeSaisie.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryTransaction\\ClassLibraryTransaction.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryTransaction\\ClassLibraryTransaction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj",
+        "projectName": "WinFormsAppListBoxEtComboBox",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary5Verification\\ClassLibrary5Verification.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary5Verification\\ClassLibrary5Verification.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryListeDeStringSelectionne\\ClassLibraryListeDeStringSelectionne.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryListeDeStringSelectionne\\ClassLibraryListeDeStringSelectionne.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj",
+        "projectName": "WinFormsAppListBox",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary4Verification\\ClassLibrary4Verification.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary4Verification\\ClassLibrary4Verification.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\WinFormsAppPhase4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\WinFormsAppPhase4.csproj",
+        "projectName": "WinFormsAppPhase4",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\WinFormsAppPhase4.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppPhase4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary8Validation\\ClassLibrary8Validation.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppCheckBoxEtRadioButton\\WinFormsAppCheckBoxEtRadioButton.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppComposantsDeDefilement\\WinFormsAppComposantsDeDefilement.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppControlesDeSaisie\\WinFormsAppControlesDeSaisie.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBoxEtComboBox\\WinFormsAppListBoxEtComboBox.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppListBox\\WinFormsAppListBox.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj",
+        "projectName": "WinFormsAppSynthese",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\WinFormsAppSynthese.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsAppSynthese\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary7Verification\\ClassLibrary7Verification.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibraryEmprunt\\ClassLibraryEmprunt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj",
+        "projectName": "WinFormsApp_additionneur",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\WinFormsApp_additionneur.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\WinFormsApp_additionneur\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary_additionneur\\ClassLibrary_additionneur.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_WinForms\\ClassLibrary_additionneur\\ClassLibrary_additionneur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

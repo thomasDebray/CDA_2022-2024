@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsAppToutEmbal\\WinFormsAppToutEmbal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj",
+        "projectName": "ClassLibraryOutils",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryToutEmbal\\ClassLibraryToutEmbal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryToutEmbal\\ClassLibraryToutEmbal.csproj",
+        "projectName": "ClassLibraryToutEmbal",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryToutEmbal\\ClassLibraryToutEmbal.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryToutEmbal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsAppToutEmbal\\WinFormsAppToutEmbal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsAppToutEmbal\\WinFormsAppToutEmbal.csproj",
+        "projectName": "WinFormsAppToutEmbal",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsAppToutEmbal\\WinFormsAppToutEmbal.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsAppToutEmbal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryOutils\\ClassLibraryOutils.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryToutEmbal\\ClassLibraryToutEmbal.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal\\ClassLibraryToutEmbal\\ClassLibraryToutEmbal.csproj"
+              },
+              "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsControlLibraryToutEmbal\\WinFormsControlLibraryToutEmbal.csproj": {
+                "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsControlLibraryToutEmbal\\WinFormsControlLibraryToutEmbal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsControlLibraryToutEmbal\\WinFormsControlLibraryToutEmbal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsControlLibraryToutEmbal\\WinFormsControlLibraryToutEmbal.csproj",
+        "projectName": "WinFormsControlLibraryToutEmbal",
+        "projectPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsControlLibraryToutEmbal\\WinFormsControlLibraryToutEmbal.csproj",
+        "packagesPath": "C:\\Users\\tdebray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdebray\\Depot Git\\exercices-td\\WinForms\\Exo_ToutEmbal_Dynamique\\WinFormsControlLibraryToutEmbal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tdebray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

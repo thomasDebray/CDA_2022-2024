@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\bin\Debug\net6.0\ClassLibraryComposantsDeDefilement.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\bin\Debug\net6.0\ClassLibraryComposantsDeDefilement.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\bin\Debug\net6.0\ClassLibraryComposantsDeDefilement.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\refint\ClassLibraryComposantsDeDefilement.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ClassLibraryComposantsDeDefilement.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryComposantsDeDefilement\obj\Debug\net6.0\ref\ClassLibraryComposantsDeDefilement.dll

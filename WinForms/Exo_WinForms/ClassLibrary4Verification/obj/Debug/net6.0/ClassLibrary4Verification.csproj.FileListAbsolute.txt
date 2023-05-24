@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\bin\Debug\net6.0\ClassLibrary4Verification.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\bin\Debug\net6.0\ClassLibrary4Verification.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\bin\Debug\net6.0\ClassLibrary4Verification.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\refint\ClassLibrary4Verification.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ClassLibrary4Verification.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibrary4Verification\obj\Debug\net6.0\ref\ClassLibrary4Verification.dll

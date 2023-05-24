@@ -1,0 +1,15 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\bin\Debug\net6.0\ClassLibraryToutEmbal.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\bin\Debug\net6.0\ClassLibraryToutEmbal.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\bin\Debug\net6.0\ClassLibraryToutEmbal.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\refint\ClassLibraryToutEmbal.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ref\ClassLibraryToutEmbal.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\bin\Debug\net6.0\ClassLibraryOutils.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\bin\Debug\net6.0\ClassLibraryOutils.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_ToutEmbal\ClassLibraryToutEmbal\obj\Debug\net6.0\ClassLibraryToutEmbal.csproj.CopyComplete

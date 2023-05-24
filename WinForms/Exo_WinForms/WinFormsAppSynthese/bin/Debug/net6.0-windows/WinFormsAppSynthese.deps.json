@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsAppSynthese/1.0.0": {
+        "dependencies": {
+          "ClassLibrary7Verification": "1.0.0",
+          "ClassLibraryEmprunt": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppSynthese.dll": {}
+        }
+      },
+      "ClassLibrary7Verification/1.0.0": {
+        "runtime": {
+          "ClassLibrary7Verification.dll": {}
+        }
+      },
+      "ClassLibraryEmprunt/1.0.0": {
+        "runtime": {
+          "ClassLibraryEmprunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppSynthese/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary7Verification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryEmprunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\bin\Debug\net6.0\ConsolAppSynthese.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\bin\Debug\net6.0\ConsolAppSynthese.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\bin\Debug\net6.0\ConsolAppSynthese.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\bin\Debug\net6.0\ClassLibraryEmprunt.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\bin\Debug\net6.0\ClassLibraryEmprunt.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.csproj.CopyComplete
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\refint\ConsolAppSynthese.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ConsolAppSynthese.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ConsolAppSynthese\obj\Debug\net6.0\ref\ConsolAppSynthese.dll

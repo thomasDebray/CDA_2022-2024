@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\bin\Debug\net6.0\ClassLibraryListeDeStringSelectionne.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\bin\Debug\net6.0\ClassLibraryListeDeStringSelectionne.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\bin\Debug\net6.0\ClassLibraryListeDeStringSelectionne.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\refint\ClassLibraryListeDeStringSelectionne.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ClassLibraryListeDeStringSelectionne.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryListeDeStringSelectionne\obj\Debug\net6.0\ref\ClassLibraryListeDeStringSelectionne.dll

@@ -1,0 +1,17 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\bin\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.exe
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\bin\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\bin\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.runtimeconfig.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\bin\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\bin\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.FormComposantsDeDefilement.resources
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.csproj.GenerateResource.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\refint\WinFormsAppComposantsDeDefilement.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\WinFormsAppComposantsDeDefilement.genruntimeconfig.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\WinFormsAppComposantsDeDefilement\obj\Debug\net6.0-windows\ref\WinFormsAppComposantsDeDefilement.dll

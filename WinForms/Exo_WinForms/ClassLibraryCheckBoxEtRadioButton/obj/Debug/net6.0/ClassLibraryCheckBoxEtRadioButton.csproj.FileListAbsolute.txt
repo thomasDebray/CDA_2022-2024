@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\bin\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\bin\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\bin\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\refint\ClassLibraryCheckBoxEtRadioButton.dll
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ClassLibraryCheckBoxEtRadioButton.pdb
+C:\Users\tdebray\Depot Git\exercices-td\WinForms\Exo_WinForms\ClassLibraryCheckBoxEtRadioButton\obj\Debug\net6.0\ref\ClassLibraryCheckBoxEtRadioButton.dll

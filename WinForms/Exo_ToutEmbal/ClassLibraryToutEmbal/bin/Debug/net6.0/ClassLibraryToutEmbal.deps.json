@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassLibraryToutEmbal/1.0.0": {
+        "dependencies": {
+          "ClassLibraryOutils": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryToutEmbal.dll": {}
+        }
+      },
+      "ClassLibraryOutils/1.0.0": {
+        "runtime": {
+          "ClassLibraryOutils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryToutEmbal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryOutils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

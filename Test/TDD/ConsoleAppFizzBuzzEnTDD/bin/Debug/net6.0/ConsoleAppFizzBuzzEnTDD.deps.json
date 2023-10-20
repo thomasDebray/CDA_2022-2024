@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppFizzBuzzEnTDD/1.0.0": {
+        "dependencies": {
+          "ClassLibraryFizzBuzz": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppFizzBuzzEnTDD.dll": {}
+        }
+      },
+      "ClassLibraryFizzBuzz/1.0.0": {
+        "runtime": {
+          "ClassLibraryFizzBuzz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppFizzBuzzEnTDD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryFizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,33 @@
+<menu>
+    <entrees>
+        <entree>
+            <nom>Salade verte</nom>
+            <prix devise="euro">4.90</prix>
+            <description/>
+        </entree>
+        <entree>
+            <nom>Salade bleue</nom>
+            <prix devise="euro">5.50</prix>
+            <description>La salade de Resident Evil. Recommandée par Zombiland</description>
+        </entree>
+        <entree>
+            <nom>Salade rouge</nom>
+            <prix devise="rouble">89.50</prix>
+            <description>La salade russe !</description>
+        </entree>
+    </entrees>
+    <plats>
+        <plat>
+            <nom></nom>
+            <prix></prix>
+            <description></description>
+        </plat>
+    </plats>
+    <desserts>
+        <dessert>
+            <nom></nom>
+            <prix></prix>
+            <description></description>
+        </dessert>
+    </desserts>
+</menu>

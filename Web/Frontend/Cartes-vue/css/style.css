@@ -1,0 +1,27 @@
+:root {
+    --light: white;
+    --dark: black;
+    --primary: white;
+    --secondary: lightgray;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+td {
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+tfoot {
+    background-color: chocolate;
+}

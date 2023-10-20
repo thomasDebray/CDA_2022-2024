@@ -1,0 +1,129 @@
+:root {
+    --primary: #0065D1;
+    --secondary : aqua;
+    --third : white;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    
+}
+
+header {
+    background-color:var(--primary);
+}
+
+footer {
+    height: 5vh;
+    background-color: var(--primary);
+    display: flex;
+    justify-content: center;
+    color: var(--third);
+}
+
+.grid1 {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-areas: "A B C";
+}
+
+#logo {
+    height: 10vh;
+}
+
+main{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#search {
+    align-self: center;
+    justify-self: center;
+}
+
+.grid2 {
+    list-style: none;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-areas: "A B C D E F G";
+    justify-content: center;    
+}
+
+#welcome {
+    align-self: center;
+    justify-self: center;
+    grid-area: A;
+    padding: 5px;
+}
+
+#a11y {
+    align-self: center;
+    justify-self: center;
+    grid-area: B;
+    padding: 5px;
+}
+
+#disability {
+    align-self: center;
+    justify-self: center;
+    grid-area: C;
+    padding: 5px;
+}
+
+#donation {
+    align-self: center;
+    justify-self: center;
+    grid-area: D;
+    padding: 5px;
+}
+
+#team {
+    align-self: center;
+    justify-self: center;
+    grid-area: E;
+    padding: 5px;
+}
+
+#glossaire {
+    align-self: center;
+    justify-self: center;
+    grid-area: F;
+    padding: 5px;
+}
+
+#accessibility {
+    align-self: center;
+    justify-self: center;
+    grid-area: G;
+    padding: 5px;
+}
+
+#presidente {
+    display: flex;
+    margin: auto;
+    width: 10vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+}
+
+nav a {
+    color:var(--third)
+}
+
+nav {
+    color:var(--third)
+}

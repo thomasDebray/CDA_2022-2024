@@ -1,0 +1,189 @@
+:root {
+    --primary: #0065D1;
+    --secondary : aqua;
+    --third : white;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    
+}
+
+header {
+    background-color:var(--primary);
+}
+
+footer {
+    height: 5vh;
+    background-color: var(--primary);
+    display: flex;
+    justify-content: center;
+    color: var(--third);
+}
+
+.grid1 {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-areas: "A B C";
+}
+
+#logo {
+    height: 10vh;
+}
+
+#coingauche {
+    grid-area: A;
+}
+
+#menu {
+    grid-area: B;
+}
+
+main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#search {
+    align-self: center;
+    justify-self: center;
+    grid-area: C;
+}
+
+.grid2 {
+    list-style: none;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-areas: "A B C D E F G";
+    justify-content: center;    
+}
+
+#welcome {
+    align-self: center;
+    justify-self: center;
+    grid-area: A;
+    padding: 5px;
+}
+
+#a11y {
+    align-self: center;
+    justify-self: center;
+    grid-area: B;
+    padding: 5px;
+}
+
+#disability {
+    align-self: center;
+    justify-self: center;
+    grid-area: C;
+    padding: 5px;
+}
+
+#donation {
+    align-self: center;
+    justify-self: center;
+    grid-area: D;
+    padding: 5px;
+}
+
+#team {
+    align-self: center;
+    justify-self: center;
+    grid-area: E;
+    padding: 5px;
+}
+
+#glossaire {
+    align-self: center;
+    justify-self: center;
+    grid-area: F;
+    padding: 5px;
+}
+
+#accessibility {
+    align-self: center;
+    justify-self: center;
+    grid-area: G;
+    padding: 5px;
+}
+
+.grid3 {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "A B C D";
+    gap: 10px;
+}
+
+#perceptible {
+    background-color:var(--secondary);
+    grid-area: A;
+}
+
+#usable {
+    background-color: var(--secondary);
+    grid-area: B;
+}
+
+#understandable {
+    background-color: var(--secondary);
+    grid-area: C;
+}
+
+#robust {
+    background-color: var(--secondary);
+    grid-area: D;
+}
+p, h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: justify;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th,td {
+    border: 1px solid rgb(200,200,200);
+    border-collapse: collapse;
+}
+
+#graph {
+    text-align: center;
+}
+
+#introduction{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#text1 {
+    text-align: center;
+}
+
+#text2 {
+    text-align: center;
+}
+
+nav a {
+    color:var(--third)
+}
+
+nav {
+    color:var(--third)
+}

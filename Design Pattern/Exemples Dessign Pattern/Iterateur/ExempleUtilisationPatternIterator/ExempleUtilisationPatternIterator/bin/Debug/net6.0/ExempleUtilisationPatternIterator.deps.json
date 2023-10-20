@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExempleUtilisationPatternIterator/1.0.0": {
+        "dependencies": {
+          "BiblioClassFigure": "1.0.0"
+        },
+        "runtime": {
+          "ExempleUtilisationPatternIterator.dll": {}
+        }
+      },
+      "BiblioClassFigure/1.0.0": {
+        "runtime": {
+          "BiblioClassFigure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExempleUtilisationPatternIterator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BiblioClassFigure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

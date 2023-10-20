@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppFichier/1.0.0": {
+        "dependencies": {
+          "ClassLibraryProxy": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppFichier.dll": {}
+        }
+      },
+      "ClassLibraryProxy/1.0.0": {
+        "runtime": {
+          "ClassLibraryProxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppFichier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryProxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

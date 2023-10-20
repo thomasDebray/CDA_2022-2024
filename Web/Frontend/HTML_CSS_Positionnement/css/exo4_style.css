@@ -1,0 +1,75 @@
+:root {
+    --primary: #CCCC33;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    /*height: 100vh;
+    width: 100vw;*/
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0 0 5rem 0.5rem;
+    color: white;
+}
+
+.grid {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+    grid-template-areas:    "A A A A"
+                            "B C D D"
+                            "B E E F"
+                            "B G H I"
+                            "B J J J";
+}
+section {
+    background-color: var(--primary);
+}
+#s1 {
+    grid-area: A;
+}
+
+#s2 {
+    grid-area: B;
+}
+
+#s3 {
+    grid-area: C;
+}
+
+#s4 {
+    grid-area: D;
+}
+
+#s5 {
+    grid-area: E;
+}
+
+#s6 {
+    grid-area: F;
+}
+
+#s7 {
+    grid-area: G;
+}
+
+#s8 {
+    grid-area: H;
+}
+
+#s9 {
+    grid-area: I;
+}
+
+#s10 {
+    grid-area: J;
+}

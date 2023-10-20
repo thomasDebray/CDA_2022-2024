@@ -1,0 +1,12 @@
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\bin\Debug\net6.0\ExempleMediateurPourThomas.deps.json
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\bin\Debug\net6.0\ExempleMediateurPourThomas.dll
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\bin\Debug\net6.0\ExempleMediateurPourThomas.pdb
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.csproj.AssemblyReference.cache
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.AssemblyInfoInputs.cache
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.AssemblyInfo.cs
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.csproj.CoreCompileInputs.cache
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.dll
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\refint\ExempleMediateurPourThomas.dll
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ExempleMediateurPourThomas.pdb
+C:\Users\rbounatirou\Documents\CDA2210\Pattern\ExempleMediateurPourThomas\ExempleMediateurPourThomas\obj\Debug\net6.0\ref\ExempleMediateurPourThomas.dll

@@ -1,0 +1,24 @@
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\bin\Debug\net6.0\Bouteille.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\bin\Debug\net6.0\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\bin\Debug\net6.0\Bouteille.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\refint\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Méthode Agile\Unified Process\test\Bouteille\Bouteille\obj\Debug\net6.0\ref\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\bin\Debug\net6.0\Bouteille.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\bin\Debug\net6.0\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\bin\Debug\net6.0\Bouteille.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\refint\Bouteille.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\Bouteille.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Test\Bouteille\Bouteille\obj\Debug\net6.0\ref\Bouteille.dll

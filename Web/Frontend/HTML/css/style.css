@@ -1,0 +1,104 @@
+:root {
+    --light: white;
+    --dark: #111111;
+    --primary-color: #0075F2;
+    --secondary-color: #E3F2FD;
+    --tertiary-color: #DB5461;
+}
+body {
+    color: var(--primary-color); /* 32 couleurs nommées */
+    /*color: #FFCC00;
+    color: rgb(255,220,0);*/
+    background-color: var(--secondary-color);
+    margin: 0;
+    padding: 10px;
+}
+
+header {
+    background-color: var(--primary-color);
+    height: 100px;
+    width: 100%;
+    max-width: 100%;
+    min-width: 100px;
+}
+
+main {
+    
+}
+
+footer {
+    background-color: var(--primary-color);
+}
+
+aside.skills {
+    
+}
+
+aside {
+
+}
+section {
+    border: 1px solid var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--tertiary-color);
+    padding:5px;
+}
+
+section > h1:first-child {
+    margin-top: 0;
+
+}
+
+* > h1:first-child {
+    margin-top: 0;
+}
+
+p {
+    padding: 5px;
+
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:    "A B"
+                            "A C"
+                            "A D";
+    column-gap: 10px;
+}
+
+#skills {
+    grid-area: B;
+}
+
+#xp {
+    grid-area: C;
+}
+
+#formations {
+    grid-area: D;
+}
+
+#aside {
+    grid-area: A;
+}
+
+@media screen and (max-width: 1024px){
+    .grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas:    "B"
+                                "C"
+                                "D"
+                                "A";
+    }
+}
+
+@media print {
+    header {
+        background-color: aqua;
+   } 
+}

@@ -1,0 +1,17 @@
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\bin\Debug\net6.0\ClassLibraryDb.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\bin\Debug\net6.0\ClassLibraryDb.runtimeconfig.json
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\bin\Debug\net6.0\ClassLibraryDb.dll
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\bin\Debug\net6.0\ClassLibraryDb.pdb
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\bin\Debug\net6.0\ClassLibraryModels.dll
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\bin\Debug\net6.0\ClassLibraryModels.pdb
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.csproj.CopyComplete
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.dll
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\refint\ClassLibraryDb.dll
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.pdb
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ClassLibraryDb.genruntimeconfig.cache
+C:\Users\tdebray\Depot Git\exercices-td\API\ApiBank\ClassLibraryDb\obj\Debug\net6.0\ref\ClassLibraryDb.dll

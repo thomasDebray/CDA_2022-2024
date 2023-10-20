@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+table, th,td {
+    border: 1px solid rgb(200,200,200);
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
+
+tfoot {
+    font-weight: bold;
+}

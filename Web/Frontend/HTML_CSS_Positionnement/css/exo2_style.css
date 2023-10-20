@@ -1,0 +1,58 @@
+:root {
+    --primary-color: #CCDDFF; /* bleu */
+    --secondary-color: #FFDDCC; /* orange */
+    --tertiary-color: #CCFFDD; /* vert */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    background: var(--primary-color);
+    height: 100px;
+}
+
+body > header > h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+body > footer {
+    background-color: var(--primary-color);
+    height: 50px;
+}
+
+body > footer > div {
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 3fr 1fr;
+    height : 90vh;
+}
+
+aside {
+    background-color: var(--secondary-color);
+
+}
+
+section {
+    background-color: var(--tertiary-color);
+}
+
+section > h1 {
+    padding: 10px;
+}

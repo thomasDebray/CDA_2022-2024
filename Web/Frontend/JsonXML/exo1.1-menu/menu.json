@@ -1,0 +1,21 @@
+{
+    "entrees" : [
+        {
+            "nom" : "Salade verte",
+            "prix" : {"devise": "euro", "montant":4.90},
+            "description" : ""
+        },
+        {
+            "nom" : "Salade verte",
+            "prix" : {"devise": "euro", "montant":5.50},
+            "description" : "La salade de Resident Evil. Recommandée par Zombiland"
+        },
+        {
+            "nom" : "Salade verte",
+            "prix" : {"devise": "rouble", "montant":89.50},
+            "description" : "La salade russe !"
+        }
+    ],
+    "plats" : [],
+    "desserts" : []
+}

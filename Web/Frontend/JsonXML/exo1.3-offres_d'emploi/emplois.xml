@@ -1,0 +1,27 @@
+<emplois>
+    <emploi>
+        <intitule></intitule>
+        <ville></ville>
+        <descriptionPoste>
+            <taches>
+                <tache></tache>
+            </taches>
+            <avantages>
+                <avantage></avantage>
+                <avantage></avantage>
+                <avantage></avantage>
+                <avantage></avantage>
+                <avantage></avantage>
+            </avantages>
+            <profilRecherche></profilRecherche>  
+        </descriptionPoste>
+        <competences>
+            <competence></comptetence>
+            <competence></comptetence>
+            <competence></comptetence>
+        </competences>
+        <dateDebut></dateDebut>
+        <salaireAnnuel></salaireAnnuel>
+        <email></email>
+    </emploi>
+</emplois>

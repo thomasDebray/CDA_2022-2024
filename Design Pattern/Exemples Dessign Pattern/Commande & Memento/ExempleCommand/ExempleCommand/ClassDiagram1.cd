@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ExempleCommand.Command.Invoker">
+    <Position X="1" Y="0.75" Width="3" />
+    <NestedTypes>
+      <Delegate Name="ExempleCommand.Command.Invoker.OnCommandListChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Command\Invoker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="ExempleCommand.Command.Invoker.OnRedoListChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Command\Invoker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAoAAEAAABEAAAABAAiQAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Command\Invoker.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="commands" />
+      <Field Name="redo" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ExempleCommand.Command.CommandAllerEnHaut">
+    <Position X="5.5" Y="2.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAABAAAABAAAAAAAAAgEAAAAAAAAAAA=</HashCode>
+      <FileName>Command\CommandAllerEnHaut.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="personnage" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExempleCommand.Command.CommandAllerEnBas">
+    <Position X="5.25" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAABAAAABAAAAAAAAAgEAAAAAAAAAAA=</HashCode>
+      <FileName>Command\CommandAllerEnBas.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="personnage" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExempleCommand.Command.CommandAllerAGauche">
+    <Position X="9.25" Y="5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAABAAAABAAAAAAAAAgEAAAAAAAAAAA=</HashCode>
+      <FileName>Command\CommandAllerAGauche.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="personnage" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExempleCommand.Command.CommandAllerADroite">
+    <Position X="9.75" Y="2.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAABAAAABAAAAAAAAAgEAAAAAAAAAAA=</HashCode>
+      <FileName>Command\CommandAllerADroite.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="personnage" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExempleCommand.Personnage">
+    <Position X="1.25" Y="3.25" Width="2.5" />
+    <NestedTypes>
+      <Delegate Name="ExempleCommand.Personnage.OnPositionChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Personnage.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAEAAAAAABACEBAAAAABgAAAAYAA=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ExempleCommand.Command.ICommand">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Command\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

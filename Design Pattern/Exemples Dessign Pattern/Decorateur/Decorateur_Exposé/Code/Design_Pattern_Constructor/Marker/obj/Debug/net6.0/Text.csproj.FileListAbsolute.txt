@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\bin\Debug\net6.0\Text.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\bin\Debug\net6.0\Text.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\bin\Debug\net6.0\Text.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\refint\Text.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\Text.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Decorateur_Exposé\Code\Design_Pattern_Constructor\Marker\obj\Debug\net6.0\ref\Text.dll

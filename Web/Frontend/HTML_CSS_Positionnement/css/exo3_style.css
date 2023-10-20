@@ -1,0 +1,52 @@
+:root {
+    --primary: #BBCCFF;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    
+}
+
+.grid {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 9fr 1fr;
+    grid-template-columns: 25% 1fr 10%;
+    gap: 5px;
+    grid-template-areas:    "A A B"
+                            "C D D"
+                            "C E E";
+                            
+    
+    
+}
+
+#header {
+    grid-area: A;
+    background-color: var(--primary);
+}
+
+#aside {
+    grid-area: B;
+    background-color: var(--primary);
+}
+
+#nav {
+    grid-area: C;
+    background-color: var(--primary);
+}
+
+#article {
+    grid-area: D;
+    background-color: var(--primary);
+}
+
+#footer {
+    grid-area: E;
+    background-color: var(--primary);
+}

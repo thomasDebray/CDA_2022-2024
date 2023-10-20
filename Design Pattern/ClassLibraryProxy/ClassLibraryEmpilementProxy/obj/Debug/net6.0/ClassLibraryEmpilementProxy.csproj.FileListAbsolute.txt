@@ -1,0 +1,15 @@
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\bin\Debug\net6.0\ClassLibraryEmpilementProxy.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\bin\Debug\net6.0\ClassLibraryEmpilementProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\bin\Debug\net6.0\ClassLibraryEmpilementProxy.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\bin\Debug\net6.0\ClassLibraryProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\bin\Debug\net6.0\ClassLibraryProxy.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.csproj.CopyComplete
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\refint\ClassLibraryEmpilementProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ClassLibraryEmpilementProxy.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryEmpilementProxy\obj\Debug\net6.0\ref\ClassLibraryEmpilementProxy.dll

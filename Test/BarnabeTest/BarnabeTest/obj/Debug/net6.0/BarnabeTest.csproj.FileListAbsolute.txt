@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\bin\Debug\net6.0\BarnabeTest.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\bin\Debug\net6.0\BarnabeTest.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\bin\Debug\net6.0\BarnabeTest.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\refint\BarnabeTest.dll
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\BarnabeTest.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Test\BarnabeTest\BarnabeTest\obj\Debug\net6.0\ref\BarnabeTest.dll

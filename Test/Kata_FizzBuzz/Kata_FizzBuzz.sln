@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_FizzBuzz", "Kata_FizzBuzz\Kata_FizzBuzz.csproj", "{FD4F16F1-B2AC-4BDD-8120-A11658A8745C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFizzBuzz", "ConsoleAppFizzBuzz\ConsoleAppFizzBuzz.csproj", "{0ABA01AB-D247-40E2-9592-D320FBF2070C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4F16F1-B2AC-4BDD-8120-A11658A8745C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4F16F1-B2AC-4BDD-8120-A11658A8745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4F16F1-B2AC-4BDD-8120-A11658A8745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4F16F1-B2AC-4BDD-8120-A11658A8745C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABA01AB-D247-40E2-9592-D320FBF2070C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABA01AB-D247-40E2-9592-D320FBF2070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABA01AB-D247-40E2-9592-D320FBF2070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABA01AB-D247-40E2-9592-D320FBF2070C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9BB815-988D-4577-82F4-702A08488E95}
+	EndGlobalSection
+EndGlobal

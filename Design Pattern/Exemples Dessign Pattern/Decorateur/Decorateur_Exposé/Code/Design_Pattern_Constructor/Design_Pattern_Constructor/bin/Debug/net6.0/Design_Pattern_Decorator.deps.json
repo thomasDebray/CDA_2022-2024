@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Design_Pattern_Decorator/1.0.0": {
+        "dependencies": {
+          "Text": "1.0.0"
+        },
+        "runtime": {
+          "Design_Pattern_Decorator.dll": {}
+        }
+      },
+      "Text/1.0.0": {
+        "runtime": {
+          "Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Design_Pattern_Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

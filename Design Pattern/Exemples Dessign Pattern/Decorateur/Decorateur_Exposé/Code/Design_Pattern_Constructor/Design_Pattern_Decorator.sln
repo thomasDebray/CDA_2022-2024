@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design_Pattern_Decorator", "Design_Pattern_Constructor\Design_Pattern_Decorator.csproj", "{A00690CE-1638-4EBB-8F69-93A461E08DCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Text", "Marker\Text.csproj", "{D6FD3EF7-B87D-47C0-B392-D3059EA7479C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00690CE-1638-4EBB-8F69-93A461E08DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00690CE-1638-4EBB-8F69-93A461E08DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00690CE-1638-4EBB-8F69-93A461E08DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00690CE-1638-4EBB-8F69-93A461E08DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FD3EF7-B87D-47C0-B392-D3059EA7479C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FD3EF7-B87D-47C0-B392-D3059EA7479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FD3EF7-B87D-47C0-B392-D3059EA7479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FD3EF7-B87D-47C0-B392-D3059EA7479C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDEEC99-0EBF-4051-8239-9884D3AEC699}
+	EndGlobalSection
+EndGlobal

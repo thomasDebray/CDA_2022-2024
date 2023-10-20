@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Céréales</title>
+    <script src="./js/main.js" type="module"></script>
+</head>
+<body>
+    <h1>
+        Céréales
+    </h1>
+    <form>
+        <fieldset class="recherche">
+            <legend>Rechercher</legend>
+            <input type="text" name="Nom du céréale" id="nomCereale" placeholder="Nom du céréale">
+        </fieldset>
+        <fieldset class="filtre">
+            <legend>Filtrer</legend>
+            <fieldset class="nutriscore">
+                <legend>Nutriscore</legend>
+                <label for="a">A</label>
+                <input type="checkbox" name="A" id="a" checked="true">
+                <label for="b">B</label>
+                <input type="checkbox" name="B" id="b" checked="true">
+                <label for="c">C</label>
+                <input type="checkbox" name="C" id="c" checked="true">
+                <label for="d">D</label>
+                <input type="checkbox" name="D" id="d" checked="true">
+                <label for="e">E</label>
+                <input type="checkbox" name="E" id="e" checked="true">
+            </fieldset>
+            <fieldset>
+                <legend>Catégorie</legend>
+                <select name="categories" id="categories">
+                    <option value="tous" selected >Tous</option>
+                    <option value="sanssucre">Sans sucre</option>
+                    <option value="pauvreensel">Pauvre en Sel</option>
+                    <option value="boost">Boost</option>
+                </select> 
+            </fieldset>
+        </fieldset>
+    </form>
+    <table>
+        <thead id="myThead">
+
+        </thead>
+        <tbody id="myTbody">
+
+        </tbody>
+        <tfoot id="myTfoot">
+
+        </tfoot>
+    </table>
+    
+</body>
+</html>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SansFacade/1.0.0": {
+        "dependencies": {
+          "ClassesMetiers": "1.0.0"
+        },
+        "runtime": {
+          "SansFacade.dll": {}
+        }
+      },
+      "ClassesMetiers/1.0.0": {
+        "runtime": {
+          "ClassesMetiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SansFacade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassesMetiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\bin\Debug\net6.0\ClassLibraryProxy.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\bin\Debug\net6.0\ClassLibraryProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\bin\Debug\net6.0\ClassLibraryProxy.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\refint\ClassLibraryProxy.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ClassLibraryProxy.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryProxy\ClassLibraryProxy\obj\Debug\net6.0\ref\ClassLibraryProxy.dll

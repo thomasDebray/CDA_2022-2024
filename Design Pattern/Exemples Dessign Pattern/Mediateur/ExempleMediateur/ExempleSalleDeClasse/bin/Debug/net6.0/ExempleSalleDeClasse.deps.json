@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExempleSalleDeClasse/1.0.0": {
+        "dependencies": {
+          "ExempleMediateurPourThomas": "1.0.0"
+        },
+        "runtime": {
+          "ExempleSalleDeClasse.dll": {}
+        }
+      },
+      "ExempleMediateurPourThomas/1.0.0": {
+        "runtime": {
+          "ExempleMediateurPourThomas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExempleSalleDeClasse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExempleMediateurPourThomas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

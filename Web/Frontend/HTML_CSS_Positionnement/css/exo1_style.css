@@ -1,0 +1,65 @@
+:root {
+    --primary-color: rgb(230,75,60);
+    --secondary-color: rgb(235,240,240);
+}
+
+body {
+    background-color: var(--secondary-color);
+    margin: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns:  2fr 1fr 1fr 1fr 2fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:    "B B B B B"
+                            "Y D E F Z";
+    column-gap: 10px;
+}
+
+img {
+    height: 250px;
+}
+
+#banner {
+    color: white;
+    background-color: var(--primary-color);
+    grid-area: B;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+section {
+    background-color: white;
+
+}
+
+p {
+    padding: 10px;
+}
+
+section > h1 {
+    color: var(--primary-color);
+    padding: 10px;
+
+}
+
+#instru1 {
+    grid-area: D;
+}
+
+#instru2 {
+    grid-area: E;
+}
+
+#instru3 {
+    grid-area: F;
+}
+
+#empty1 {
+    grid-area: Y;   
+}
+
+#empty2 {
+    grid-area: Z;   
+}

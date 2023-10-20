@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="page A11y du site de la société HandiA11y">
+    <title>HandiA11y - Faites un don</title>
+    <link rel="stylesheet" href="css/styleDons.css">
+    <link rel="stylesheet" href="accessconfig/css/accessconfig.min.css" type="text/css" media="screen" />
+    <script src="accessconfig/js/accessconfig.min.js" type="text/javascript"></script>
+</head>
+<body>
+    <header role="banner">
+        <nav class="grid1">
+            <div id="coingauche">
+                <a href="#contenu">Aller au contenu</a><br>
+                <img id="logo" src="img/a11yNow.png" alt="logo de la société HandiA11y">
+            </div>
+            <ul class="grid2">
+                <li id="welcome"><a href="index.html">Accueil</a></li>
+                <li id="a11y"><a href="a11y.html">A11y</a></li>
+                <li id="disability"><a href="handicaps.html">Handicaps</a></li>
+                <li id="donation"><a href="dons.html">Faites un don</a></li>
+                <li id="team"><a href="equipe.html">Equipe</a></li>
+                <li id="glossaire"><a href="glossaire.html">Glossaire</a></li>
+                <li id="accessibility"><div id="accessconfig" data-accessconfig-buttonname="Paramètres d’accessibilité" data-accessconfig-params='{ "Prefix" : "a42-ac", "ContainerClass" : "","ModalCloseButton" : "","ModalTitle" : "","FormFieldset" : "","FormFieldsetLegend" : "","FormRadio" : ""}' ></div></li>
+            </ul>
+            <div id="search">
+                <label for="text" >Rechercher</label>
+                <input type="text" id="text">
+                <button>Rechercher</button>
+            </div>
+        </nav>
+    </header>
+    <main role="main">
+        <a id="contenu" tabindex="-1"></a>
+        <h1>Nous sommes bénévoles, faites un don !</h1>
+        <img id="presidente" src="img/directrice.png" alt="Photo de notre directrice madame Muche Raymonde">
+        <section>
+            <form>
+                <fieldset>
+                    <legend>Informations personnelles</legend>
+                    <div>
+                        <label for="civilite">Civilité </label>
+                        <select class="input-civilite" id="civilite" name="civilite">
+                            <option value="monsieur">Monsieur</option>
+                            <option value="madame">Madame</option>
+                            <option value="autre">Ni l'un ni l'autre</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="prenom">Prénom </label>
+                        <input type="text" id="prenom" name="prenom" required="" aria-required="true">
+                    </div>
+                    <div>
+                        <label for="nom">Nom </label>
+                        <input type="text" id="nom" name="nom" required="" aria-required="true">
+                    </div>
+                    <div>
+                        <label for="age">Âge </label>
+                        <input type="number" id="age" name="age" required="" aria-required="true">
+                    </div>
+                    <div>
+                        <label for="email">Courriel </label>
+                        <input type="email" id="email" name="email" required="" aria-required="true" aria-describedby="email-description">
+                    </div>
+                    <div id="email-description">Veuillez fournir une adresse électronique valide.</div>
+                </fieldset>
+                <fieldset>
+                    <legend>Adresse</legend>
+                    <div>
+                        <label for="numeroadresse">Numéro </label>
+                        <input type="text" id="numeroadresse" name="numero" required="" aria-required="true">
+                    </div>
+                    <div>
+                        <label for="rue">Nom de la rue </label>
+                        <input type="text" id="rue" name="rue" required="" aria-required="true">
+                    </div>
+                    <div>
+                        <label for="codepostal">Code postal </label>
+                        <input type="text" id="codepostal" name="codepostal" required="" aria-required="true">
+                    </div>
+                    <div>
+                        <label for="ville">Ville </label>
+                        <input type="text" id="ville" name="ville" required="" aria-required="true">
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>Cochez la ou les cases correspondant à vos souhaits</legend>
+                    <div class="souhait">
+                        <label for="newsletter">Recevoir la newsletter</label>
+                        <input type="checkbox" id="newsletter" name="newsletter">
+                    </div>
+                    <div class="souhait">
+                        <label for="benevole">Devenir bénévole</label>
+                        <input type="checkbox" id="benevole" name="benevole">
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>Montant du don</legend>
+                    <div>
+                        <label for="montant">Montant </label>
+                        <select id="montant" name="montant">
+                            <option value="10">10 euros</option>
+                            <option value="100">100 euros</option>
+                            <option value="200">200 euros</option>
+                            <option value="400">400 euros</option>
+                            <option value="500">500 euros</option>
+                            <option value="800">800 euros</option>
+                            <option value="900">900 euros</option>
+                            <option value="1000">1000 euros</option>
+                            <option value="2000">2000 euros</option>
+                        </select>
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>Informations de paiement</legend>
+                    <fieldset>
+                        <legend>Choix de la carte</legend>
+                        <div>
+                            <label for="carte-mastercard">
+                                <input type="radio" id="carte-mastercard" name="carte" value="mastercard">
+                                Master Card
+                            </label>
+                        </div>
+                        <div>
+                            <label for="carte-cb">
+                                <input type="radio" id="carte-cb" name="carte" value="cb">
+                                CB
+                            </label>
+                        </div>
+                        <div>
+                            <label for="carte-visa">
+                                <input type="radio" id="carte-visa" name="carte" value="visa">
+                                Visa
+                            </label>
+                        </div>
+                    </fieldset>
+                    <label for="numero">Numéro de carte </label>
+                    <input type="text" id="numero" name="numero" pattern="[0-9]{16}" required="" aria-required="true">
+                    <label for="expiration">Date d'expiration </label>
+                    <input class="input-expiration" type="text" id="expiration" required="" aria-required="true" name="expiration" placeholder="MM/AA">
+                    <label for="code">Code secret </label>
+                    <input class="input-code" type="text" id="code" name="code" required="" aria-required="true" pattern="[0-9]{3}">
+                </fieldset>
+                    <div id="button" >
+                        <button type="submit">Valider le don</button>
+                    </div>
+            </form>
+        </section>
+    </main>
+    <footer role="contentinfo">
+        <p>&#xA9; 2023 HandiA11y. Tout droits réservés.</p>
+    </footer>
+</body>
+</html>

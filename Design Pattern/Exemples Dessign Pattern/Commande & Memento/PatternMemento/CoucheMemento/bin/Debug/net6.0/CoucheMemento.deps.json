@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoucheMemento/1.0.0": {
+        "dependencies": {
+          "PatternMemento": "1.0.0"
+        },
+        "runtime": {
+          "CoucheMemento.dll": {}
+        }
+      },
+      "PatternMemento/1.0.0": {
+        "runtime": {
+          "PatternMemento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoucheMemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatternMemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

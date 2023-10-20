@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ClassLibraryModels.BankTransaction>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Transaction_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transaction_From)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transaction_To)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transaction_Amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transaction_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transaction_From)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transaction_To)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transaction_Amount)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Transaction_Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Transaction_Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Transaction_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

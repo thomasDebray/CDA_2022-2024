@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CardGame</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js" defer></script>
+    <script src="./js/main.js" type="module"></script>
+</head>
+<body>
+    <div id="app">
+        <h1>{{ title }}</h1>
+        <table v-if="cards != null && cards.cardsCollection[0] != null">
+            <thead>
+                <tr>
+                    <th v-for="data in cards.cardsCollection[0].getKeys()">{{ data }}</th>
+                </tr>
+            </thead>
+    
+            <tbody>
+                <tr v-for="card in cards.cardsCollection">
+                    <td v-for="data in card.getValues()">{{ data }}</td>
+                </tr>
+            </tbody>
+            
+            <tfoot>
+                <tr>
+                    <td v-for="data in cards.getHigherAttackCard().getValues()">{{ data }}</td>
+                </tr>
+                <tr>
+                    <td v-for="data in cards.getHigherArmorCard().getValues()">{{ data }}</td>
+                </tr>
+                <tr>
+                    <td v-for="data in cards.getHigherPlayedCard().getValues()">{{ data }}</td>
+                </tr>
+                <tr>
+                    <td v-for="data in cards.getHigherVictoryCard().getValues()">{{ data }}</td>
+                </tr>
+
+            </tfoot>
+        </table>
+    </div>
+    
+</body>
+</html>

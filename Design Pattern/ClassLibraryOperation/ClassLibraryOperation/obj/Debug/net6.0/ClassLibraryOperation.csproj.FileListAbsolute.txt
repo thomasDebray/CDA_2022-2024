@@ -1,0 +1,12 @@
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.csproj.AssemblyReference.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.AssemblyInfoInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.AssemblyInfo.cs
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.csproj.CoreCompileInputs.cache
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\bin\Debug\net6.0\ClassLibraryOperation.deps.json
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\bin\Debug\net6.0\ClassLibraryOperation.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\bin\Debug\net6.0\ClassLibraryOperation.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\refint\ClassLibraryOperation.dll
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ClassLibraryOperation.pdb
+C:\Users\tdebray\Depot Git\exercices-td\Design Pattern\ClassLibraryOperation\ClassLibraryOperation\obj\Debug\net6.0\ref\ClassLibraryOperation.dll

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ClassLibraryEmpilementProxy.ClassFichierProxyA">
+    <Position X="3" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ClassFichierProxyA.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="iObjet" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryEmpilementProxy.ClassFichierProxyB">
+    <Position X="6" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ClassFichierProxyB.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="iObjet" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryEmpilementProxy.ClassFichierProxyC">
+    <Position X="1.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ClassFichierProxyC.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="iObjet" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryProxy.ClassFichierSource">
+    <Position X="10" Y="2.5" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ClassLibraryProxy.IFichier">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
